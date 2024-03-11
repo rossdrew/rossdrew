@@ -14,4 +14,7 @@ Older Projects (which I'm unlikely to find time for and are probably horribly wr
  - [Spokesman](https://github.com/rossdrew/Spokesman-SFTP): A small server I developed to act as an SFTP wrapper around Amazon AWS boxes.
  - [Zero Hour](https://github.com/rossdrew/ZeroHour): A script to migrate Rally data to Trello.  
 
+Gists
+ - [iSki GPX Converter](https://gist.github.com/rossdrew/510bcfe76aacd30a700216a02bee25eb): A Python script to take GPS path data exported from iSki website and turn it into GPX data that can be loaded into other apps such as Strava.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossdrew&layout=compact)](http://github.com/rossdrew)
