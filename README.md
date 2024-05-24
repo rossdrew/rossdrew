@@ -18,3 +18,8 @@ Gists
  - [iSki GPX Converter](https://gist.github.com/rossdrew/510bcfe76aacd30a700216a02bee25eb): A Python script to take GPS path data exported from iSki website and turn it into GPX data that can be loaded into other apps such as Strava.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossdrew&layout=compact)](http://github.com/rossdrew)
+
+
+### Roxoft elsewhere
+
+- [Exercism](https://exercism.org/profiles/rossdrew)
