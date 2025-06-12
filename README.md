@@ -23,3 +23,4 @@ Gists
 ### Roxoft elsewhere
 
 - [Exercism](https://exercism.org/profiles/rossdrew)
+- [Stack Overflow](https://stackoverflow.com/users/2075524/ross-drew)
