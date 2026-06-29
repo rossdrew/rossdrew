@@ -2,6 +2,7 @@
 
 Current Projects (which I'll work on when I get time currently): 
  - [EmuRox](https://github.com/rossdrew/emuRox): MOS6502 emulator with visions of becoming a *well written* NES emulator then other systems
+   - Currently working on another, more cycle aware, approach in [EmuRoxLab](https://github.com/rossdrew/EmuRoxLab ) and using it to really evaluate AI.
  - [Greenhouse Telemetry](https://github.com/rossdrew/greenhouse-telemetry): Off grid greenhouse monitoring and control with a Rasperri Pi with it's own [blog series](https://dev.to/rossdrew/series/1097)
  - [Pitest CI](https://github.com/rossdrew/PitestCI): A very small script to provide a GitHub badge based on Pitest results.  This needs a lot more work to really be useful
  - [Journal](https://github.com/rossdrew/journal): A basic Journal append and search application for learning front-end
