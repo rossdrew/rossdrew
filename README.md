@@ -24,3 +24,5 @@ Gists
 - [Exercism](https://exercism.org/profiles/rossdrew)
 - [Stack Overflow](https://stackoverflow.com/users/2075524/ross-drew)
 - [Dev.to](https://dev.to/rossdrew)
+
+![Profile Views Tracker](https://komarev.com/ghpvc/?username=rossdrew&label=Profile%20views&color=7E3D1F)</center>
