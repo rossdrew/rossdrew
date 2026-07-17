@@ -1,5 +1,5 @@
 <!--![Roxoft on GitHub Header Image](https://capsule-render.vercel.app/api?type=waving&height=180&color=7E3D1F&text=Ross%20Drew&reversal=false&textBg=false&fontSize=50&animation=fadeIn&fontAlign=49&fontAlignY=21&fontColor=000000&desc=AI%20Engineer%20|%20Coder%20|%20Tinkerer&descAlignY=44)-->
-![Roxoft on GitHub Header Image](https://github.com/rossdrew/rossdrew/blob/main/ross_drew_8bit_header_noborder.svg)
+![Roxoft on GitHub Header Image](https://github.com/rossdrew/rossdrew/blob/main/ross_drew_8bit_header_pong.svg)
 
 Current Projects (which I'll work on when I get time currently): 
  - [EmuRox](https://github.com/rossdrew/emuRox): MOS6502 emulator with visions of becoming a *well written* NES emulator then other systems
