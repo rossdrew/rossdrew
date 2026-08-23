@@ -4,7 +4,7 @@
 Current Projects (which I'll work on when I get time currently): 
  - [EmuRox](https://github.com/rossdrew/emuRox): MOS6502 emulator with visions of becoming a *well written* NES emulator then other systems
    - Currently working on another, more cycle aware, approach in [EmuRoxLab](https://github.com/rossdrew/EmuRoxLab ) and using it to really evaluate AI.
- - [PokeCheck](https://pokerox.roxoft.uk/): A site to check Pokemon card data by scanning the card image. Originally an effort to see how AI deals with more complex engineering and optimisation. 
+ - [PokeRox](https://pokerox.roxoft.uk/): A site to check Pokemon card data by scanning the card image. Originally an effort to see how AI deals with more complex engineering and optimisation. 
  - [Greenhouse Telemetry](https://github.com/rossdrew/greenhouse-telemetry): Off grid greenhouse monitoring and control with a Rasperri Pi with it's own [blog series](https://dev.to/rossdrew/series/1097)
  - [Journal](https://github.com/rossdrew/journal): A basic Journal append and search application for learning front-end
 
