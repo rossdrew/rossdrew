@@ -15,7 +15,7 @@ Code Dumps (which are dumping grounds for smaller chunks of unrelated code)
 Older Projects (which I'm unlikely to find time for and are probably horribly written):
  - [Spokesman](https://github.com/rossdrew/Spokesman-SFTP): A small server I developed to act as an SFTP wrapper around Amazon AWS boxes.
  - [Zero Hour](https://github.com/rossdrew/ZeroHour): A script to migrate Rally data to Trello.
- - [Pitest CI](https://github.com/rossdrew/PitestCI): A very small script to provide a GitHub badge based on Pitest results.  Needed much more work to be useful and I can do it with a Kotlin script inside the build system now.
+ - [Pitest CI](https://github.com/rossdrew/PitestCI): A very small script to provide a GitHub badge based on Pitest results.  Made obsolete by GitHub actions
 
 
 Gists
