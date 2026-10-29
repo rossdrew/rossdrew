@@ -5,7 +5,7 @@ Current Projects (which I'll work on when I get time currently):
  - [EmuRox](https://github.com/rossdrew/emuRox): MOS6502 emulator with visions of becoming a *well written* NES emulator then other systems
    - Currently working on another, more cycle aware, approach in [EmuRoxLab](https://github.com/rossdrew/EmuRoxLab ) and using it to really evaluate AI.
  - [PokeRox](https://pokerox.roxoft.uk/): A site to check Pokemon card data by scanning the card image. Originally an effort to see how AI deals with more complex engineering and optimisation.
- - [Pitest CI](https://github.com/rossdrew/PitestCI): Generation of a GitHub badge for [Pitest mutation testing](https://github.com/hcoles/pitest). In it's second incarnation as a GitHub action.
+ - [Pitest CI](https://github.com/rossdrew/PitestCI): GitHub badge for [Pitest mutation testing](https://github.com/hcoles/pitest). In it's second incarnation as a GitHub action [on Marketplace](https://github.com/marketplace/actions/pitest-badge).
  - [Roundabout](https://github.com/rossdrew/roundabout): A GPU-rendered, immediate-mode UI toolkit for real-time debugging tools in Java which came out of writing UIs for [EmuRox](https://github.com/rossdrew/emuRox)
  - [Greenhouse Telemetry](https://github.com/rossdrew/greenhouse-telemetry): Off grid greenhouse monitoring and control with a Rasperri Pi with it's own [blog series](https://dev.to/rossdrew/series/1097)
 
