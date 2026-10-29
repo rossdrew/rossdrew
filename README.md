@@ -26,3 +26,5 @@ Gists
 - [Exercism](https://exercism.org/profiles/rossdrew)
 - [Stack Overflow](https://stackoverflow.com/users/2075524/ross-drew)
 - [Dev.to](https://dev.to/rossdrew)
+
+<a href="https://stackoverflow.com/users/2075524/ross-drew"><img src="https://stackoverflow.com/users/flair/2075524.png?theme=dark" width="208" height="58" alt="From before the days of AI, we used to ask _each other_ questions" title="From before the days of AI, we used to ask _each other_ questions"></a>
